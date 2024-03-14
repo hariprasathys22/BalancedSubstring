@@ -17,6 +17,6 @@ balanced substring.Write an efficient algorithm for the following assumptions:
 - string S is made only of lowercase letters (a−z)
 using dart
 
-Used helper function to check if a substring is balanced
-Iterated through all possible substring
+- Used helper function to check if a substring is balanced
+- and Iterated through all possible substring
 
