@@ -1,5 +1,5 @@
-question:
-A string is balanced if it consists of exactly two different characters and both of those
+# question:
+- A string is balanced if it consists of exactly two different characters and both of those
 characters appear exactly the same number of times. For example: "aabbab" is
 balanced (both 'a' and 'b' occur three times) but "aabba" is not balanced ('a' occurs three
 times, 'b' occurs two times). String "aabbcc" is also not balanced (it contains three
